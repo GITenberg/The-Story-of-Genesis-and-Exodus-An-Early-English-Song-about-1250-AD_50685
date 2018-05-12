@@ -1,4 +1,5 @@
 _repo: The-Story-of-Genesis-and-Exodus-An-Early-English-Song-about-1250-AD_50685
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       deathdate: 1894
       gutenberg_agent_id: '34489'
       url: http://www.gutenberg.org/2009/agents/34489
+covers:
+- cover_type: archival
+  image_path: 50685-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50685#The-Story-of-Genesis-and-Exodus-An-Early-English-Song-about-1250-AD
 gutenberg_issued: '2015-12-13'
 gutenberg_type: Text
 identifiers:
